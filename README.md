@@ -43,6 +43,8 @@ The dataset used in this project is a publicly available supermarket sales datas
 
 ---
 
+<img width="1280" height="720" alt="DASHBOARD" src="https://github.com/user-attachments/assets/bd51cd51-9dff-4925-8a8f-123cb2a02c36" />
+
 ## Key Insights
 
 ### 1. City Performance

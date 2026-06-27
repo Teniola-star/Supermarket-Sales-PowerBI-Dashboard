@@ -29,6 +29,12 @@ The supermarket data was analyzed to answer key business questions such as:
 
 ---
 
+## Dataset Source
+
+The dataset used in this project is a publicly available supermarket sales dataset used for learning and practice in data analytics.
+
+---
+
 ## Key Metrics
 
 - Total Sales: 322.97K  
